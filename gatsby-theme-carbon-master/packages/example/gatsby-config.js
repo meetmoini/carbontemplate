@@ -24,7 +24,7 @@ module.exports = {
         mediumAccount: 'carbondesign',
         repository: {
           baseUrl:
-            'https://github.com/carbon-design-system/gatsby-theme-carbon',
+            'https://github.com/meetmoini/carbontemplate/tree/master/gatsby-theme-carbon-master',
           subDirectory: '/packages/example',
         },
       },
